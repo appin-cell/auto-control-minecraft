@@ -14,6 +14,7 @@ try:
        x,y = gui.position()
        rgb = gui.pixel(x,y)
        if rgb = :
+           direct.mousedown()
            
            
        
