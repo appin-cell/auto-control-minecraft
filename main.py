@@ -9,6 +9,7 @@ win32gui.SetForegroundWindow(memoapp)
 
 try:
     while True:
+       pyautogui.move(0, 1, duration=0.001)
        x,y = gui.position()
        rgb = gui.pixel(x,y)
        if rgb = 
