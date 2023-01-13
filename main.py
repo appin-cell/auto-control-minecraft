@@ -15,6 +15,8 @@ try:
        rgb = gui.pixel(x,y)
        if rgb = :
            direct.mousedown()
+           time.sleep(0.75)
+           
            
            
        
