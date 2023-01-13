@@ -15,7 +15,9 @@ try:
        rgb = gui.pixel(x,y)
        if rgb = :
            direct.mousedown()
-           time.sleep(0.75)
+           time.sleep(0.8)
+           pyautogui.move(0,150,duration=0.001)
+           time.sleep(0.8)
            
            
            
