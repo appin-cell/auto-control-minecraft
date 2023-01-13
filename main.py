@@ -15,6 +15,7 @@ try:
        rgb = gui.pixel(x,y)
        if rgb = :
            
+           
        
 
        
