@@ -13,7 +13,7 @@ try:
        pyautogui.move(0, 1, duration=0.001)
        x,y = gui.position()
        rgb = gui.pixel(x,y)
-       if rgb = :
+       if rgb = 92, 72, 40:
            direct.mousedown()
            time.sleep(0.8)
            pyautogui.move(0,-150,duration=0.1)
